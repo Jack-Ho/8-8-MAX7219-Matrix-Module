@@ -1,5 +1,4 @@
 # 8-8-MAX7219-Matrix-Module
-code 9 to 0
 #include "LedControl.h"
 LedControl lc = LedControl(12, 11, 10, 1);
 int m = 9;
